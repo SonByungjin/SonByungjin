@@ -2,4 +2,4 @@
 - Data Visualization
 - Frontend Developer
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SonByungjin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SonByungjin&show_icons=true&theme=cobalt)
