@@ -5,7 +5,7 @@ ___
 - Html/css
 - React<br/>
   class-components<br/>
-  function-components
+  functional-components
 ___
 ## Interested in...💗
 - Frontend Developer
