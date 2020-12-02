@@ -1,7 +1,16 @@
-# Hello world🌟
-## Interested in...
-- Data Visualization
+# Hello this is SonByungjin 😁
+___
+## Skills 📝
+- javascript
+- Html/css
+- React
+  class-components
+  function-components
+___
+## Interested in...💗
 - Frontend Developer
+- Data Visualization
+  I want to use data to show people the world
 ___
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SonByungjin&show_icons=true&theme=cobalt)
 ___
