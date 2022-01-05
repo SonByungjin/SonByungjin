@@ -2,7 +2,7 @@
 ___
 ## Skills 📝
 - javascript
-- Html/css
+- html/css
 - React<br/>
   class-components<br/>
   functional-components
