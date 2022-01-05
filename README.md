@@ -1,11 +1,14 @@
 # Hello this is SonByungjin 😁
 ___
 ## Skills 📝
-- javascript
-- html/css
 - React<br/>
   class-components<br/>
-  functional-components
+  functional-components<br/>
+  redux-saga
+
+- Flutter<br/>
+  bloc-pattern
+
 ___
 ## Interested in...💗
 - Frontend Developer
