@@ -8,7 +8,8 @@
   useSWR
 
 - **Flutter**<br/>
-  bloc-pattern
+  bloc
+  webview
 
 ## Interested in...💗
 - Frontend Developer
