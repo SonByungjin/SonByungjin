@@ -8,7 +8,7 @@
   useSWR
 
 - **Flutter**<br/>
-  bloc
+  bloc<br/>
   webview
 
 ## Interested in...💗
