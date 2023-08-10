@@ -1,4 +1,5 @@
 # I'm Castie✨
+I admire Keith Haring and I want to inspire the world like him one day.
 ## SERVER
 <div style="display: 'flex'; width: '100%'; gap: '100px'">
   <a href="https://nestjs.com" target="_blank">
