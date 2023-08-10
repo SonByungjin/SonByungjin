@@ -1,6 +1,6 @@
 # I'm Castie✨
 _I admire Keith Haring and I want to inspire the world like him one day._
-## SERVER & DATABASE
+## SERVER & DB
 <div style="display: 'flex'; width: '100%'; gap: '100px'">
   <a href="https://nestjs.com" target="_blank">
     <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" height="200"/>
