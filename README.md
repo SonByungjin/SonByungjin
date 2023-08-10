@@ -1,19 +1,30 @@
-# Hello, this is SonByungjin 😁
-## Skills 📝
-- **React**<br/>
-  class-components<br/>
-  functional-components<br/>
-  redux-saga<br/>
-  apollo<br/>
-  useSWR
+# I'm Castie✨
+## SERVER
+<div style="display: 'flex'; width: '100%'; gap: '100px'">
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" height="200"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" height="200"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="drawing" height="200"/>
+  </a>
+</div>
 
-- **Flutter**<br/>
-  bloc<br/>
-  webview
+## WEB & APP
+<div>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" height="200"/>
+  </a>
+  <a href="https://nuxt.com" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" height="200"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="flutter" height="200"/>
+  </a>
+</div>
 
-## Interested in...💗
-- Frontend Developer
-- Data Visualization
 
 ___
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SonByungjin&show_icons=true&theme=cobalt)
