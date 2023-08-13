@@ -1,16 +1,19 @@
 # I'm Castie✨
 _I admire Keith Haring and I want to inspire the world like him one day._
 ## SERVER & DB
-<div style="display: 'flex'; width: '100%'; gap: '100px'">
+<div>
   <a href="https://nestjs.com" target="_blank">
     <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="drawing" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## WEB & APP
@@ -18,12 +21,15 @@ _I admire Keith Haring and I want to inspire the world like him one day._
   <a href="https://react.dev" target="_blank">
     <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nuxt.com" target="_blank">
     <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank">
     <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="flutter" height="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
