@@ -3,26 +3,26 @@ _I admire Keith Haring and I want to inspire the world like him one day._
 ## SERVER & DB
 <div style="display: 'flex'; width: '100%'; gap: '100px'">
   <a href="https://nestjs.com" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" height="100"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" height="100"/>
   </a>
   <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="drawing" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="drawing" height="100"/>
   </a>
 </div>
 
 ## WEB & APP
 <div>
   <a href="https://react.dev" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" height="100"/>
   </a>
   <a href="https://nuxt.com" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" height="100"/>
   </a>
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="flutter" height="200"/>
+    <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="flutter" height="100"/>
   </a>
 </div>
 
