@@ -39,5 +39,3 @@ ___
 ## Links
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://spurious-frown-413.notion.site/Imagine-your-world-2a01c2a19b30817dbcc1ca7c97926c29)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgyos000@gmail.com)](mailto:sgyos000@gmail.com)
-[![Velog Badge](http://img.shields.io/badge/-Velog-green?style=flat-square&link=https://velog.io/@sgyos000)](https://velog.io/@sgyos000)
-[![Tistory Badge](http://img.shields.io/badge/-Tistory-purple?style=flat-square&link=https://castie.tistory.com/)](https://castie.tistory.com/)
